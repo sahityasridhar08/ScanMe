@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/thileeban/Downloads/BizCode/Card/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/thileeban/Downloads/BizCode/Card/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_697e74641bae686d51c2125b664dae0887bb0534/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thileeban/Downloads/BizCode/Card/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8606e25eea6300704077ded296e6f0de53036102">
+        <dex dex="/home/thileeban/Downloads/BizCode/Card/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c49c5f37f0c9a677ed15d4b4a09284f010979d2c/classes.dex" />
+    </item>
+
+</items>
